@@ -1,0 +1,30 @@
+.darker{
+  background-color: #191919;
+}
+body{
+  color: white;
+  background-color: #191919;
+}
+.dark{
+  background-color: #292828;
+}
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,564&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+
+.rubik {
+  font-family: "Rubik", ;
+
+  font-style: italic;
+}
+
+.fira-sans-medium {
+  font-family: "Fira Sans", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+.jersey-15-regular {
+  font-family: "Jersey 15";
+}
